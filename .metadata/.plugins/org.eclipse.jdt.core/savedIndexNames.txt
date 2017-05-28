@@ -49,7 +49,6 @@ INDEX VERSION 1.130+/Users/ivanlynch/Documents/tutorialSpring/.metadata/.plugins
 378179634.index
 4212969584.index
 978059763.index
-1905120838.index
 1232262185.index
 487047335.index
 4158514576.index

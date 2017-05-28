@@ -7,7 +7,6 @@ public class MainApp {
 
 	public static void main(String[] args) {
 		
-		@SuppressWarnings("resource")
 		ConfigurableApplicationContext context = new ClassPathXmlApplicationContext("Beans.xml");
 		
 		context.start();
