@@ -1,0 +1,34 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+   
+   <!-- Definition for javaCollection -->
+   <bean id="javaCollection" class="com.tutorialspoint.JavaCollection">
+   
+   		<!-- results in a setAdressList(java.util.List) call -->
+   		<property name="adressList">
+   			<list>
+   				<value>INDIA</value>
+   				<value>Pakistan</value>
+   				<value>USA</value>
+   				<value>USA</value>
+   			</list>
+   		</property>
+   		
+   		<!-- results in a setAdressSet(java.util.Set) call -->
+   		<property name="adressSet">
+   			<set>
+   				<value>INDIA</value>
+   				<value>Pakistan</value>
+   				<value>USA</value>
+   				<value>USA</value>
+   			</set>
+   		</property>
+   		
+   </bean>
+   
+   
+</beans>

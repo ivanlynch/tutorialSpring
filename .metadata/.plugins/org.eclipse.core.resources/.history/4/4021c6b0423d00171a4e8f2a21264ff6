@@ -1,0 +1,12 @@
+package com.tutorialspoint;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class HelloWorldConfig {
+	
+	public HelloWorld helloworld(){
+		return new HelloWorld();
+	}
+	
+}

@@ -1,0 +1,7 @@
+package com.tutorialspoint;
+
+public class HelloWorldConfig {
+	public HelloWorld helloworld(){
+		return new HelloWorld();
+	}
+}

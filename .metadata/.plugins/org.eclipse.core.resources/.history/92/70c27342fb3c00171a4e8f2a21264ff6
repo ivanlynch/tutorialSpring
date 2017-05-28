@@ -1,0 +1,53 @@
+package com.tutorialspoint;
+import java.util.*;
+
+public class JavaCollection {
+	List adressList;
+	Set adressSet;
+	Map adressMap;
+	Properties adressProp;
+		
+	//a setter method to set List
+	public void setAdressList(List adressList) {
+		this.adressList = adressList;
+	}
+	
+	//print and return all elements of the list
+	public List getAdressList() {
+		System.out.println("List Elements : " + adressList);
+		return adressList;
+	}
+	
+	//a setter method to set List
+	public void setAdressSet(Set adressSet) {
+		this.adressSet = adressSet;
+	}
+	
+	//print and return all elements of the set
+	public Set getAdressSet() {
+		System.out.println("Set Elements : " + adressSet);
+		return adressSet;
+	}
+	
+	//a setter method to set List
+	public void setAdressMap(Map adressMap) {
+		this.adressMap = adressMap;
+	}
+	
+	//print and return all elements of the Map
+	public Map getAdressMap() {
+		System.out.println("Map Elements : " + adressMap);
+		return adressMap;
+	}
+	
+	public Properties getAdressProp() {
+		return adressProp;
+	}
+	public void setAdressProp(Properties adressProp) {
+		this.adressProp = adressProp;
+	}
+	
+
+	
+	
+}
