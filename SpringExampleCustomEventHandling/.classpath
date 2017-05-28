@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-aop-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-aspects-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-beans-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-context-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-context-support-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-core-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-expression-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-instrument-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-instrument-tomcat-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-jdbc-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-jms-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-messaging-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-orm-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-oxm-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-test-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-tx-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-web-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-webmvc-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-webmvc-portlet-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/ivanlynch/Documents/Libs/Springs&amp;Commons/spring-websocket-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
